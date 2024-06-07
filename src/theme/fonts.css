@@ -1,0 +1,42 @@
+/* styles/fonts.css */
+/* custom-slick-carousel.css */
+
+/* Customize the left arrow */
+.slick-prev:before {
+  color: #4a4a4a !important ;
+}
+
+/* Customize the right arrow */
+.slick-next:before {
+  color: #4a4a4a !important ;
+}
+
+.css-a5mhaz {
+  padding: 0px !important;
+}
+
+/* global.css */
+
+/* Modify the scrollbar width */
+::-webkit-scrollbar {
+  width: 7px; /* Change this value to adjust the scrollbar width */
+}
+
+/* Modify the scrollbar color */
+::-webkit-scrollbar-thumb {
+  background-color: #0c82ee; /* Change this value to adjust the scrollbar color */
+}
+
+/* ImageSlider.css */
+.slider-container {
+  width: 100%; /* Adjust this width based on your layout */
+  /* max-width: 50%; Set a maximum width for the slider */
+  margin: 0 auto;
+}
+
+@font-face {
+  font-family: "Adani Medium";
+  src: url("/AdaniMedium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

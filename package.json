@@ -1,0 +1,52 @@
+{
+  "name": "adani-sports-line-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.16",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/resolvers": "^3.1.1",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@types/canvas-confetti": "^1.6.0",
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "axios": "^1.4.0",
+    "canvas-confetti": "^1.6.0",
+    "dayjs": "^1.11.9",
+    "dotenv": "^16.3.1",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "framer-motion": "^10.15.0",
+    "i18next": "^23.4.4",
+    "lodash.debounce": "^4.0.8",
+    "next": "13.2.4",
+    "next-i18next": "^14.0.0",
+    "next-images": "^1.8.5",
+    "react": "18.2.0",
+    "react-countdown-circle-timer": "^3.2.1",
+    "react-dom": "18.2.0",
+    "react-hook-form": "7",
+    "react-hot-toast": "^2.4.1",
+    "react-i18next": "^13.1.2",
+    "react-icons": "^4.7.1",
+    "react-redux": "^8.0.5",
+    "react-select": "^5.7.4",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "typescript": "5.0.2",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/react-slick": "^0.23.10",
+    "babel-plugin-transform-remove-console": "^6.9.4"
+  }
+}
